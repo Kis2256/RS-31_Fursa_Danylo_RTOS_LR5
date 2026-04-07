@@ -38,6 +38,7 @@
 🎲 Налаштування в CubeMX
 
 <img width="1564" height="773" alt="image" src="https://github.com/user-attachments/assets/f11686f5-5607-4e81-ae6e-ec0cb6878167" />
+<img width="593" height="393" alt="image" src="https://github.com/user-attachments/assets/c3be9b2e-28a3-40d0-a6d3-e11e3c529189" />
 
 
   
